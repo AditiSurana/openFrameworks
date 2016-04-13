@@ -1,2 +1,3 @@
 # openFrameworks
-Projects made using openFrameworks
+Creative Coding class using openFrameworks
+

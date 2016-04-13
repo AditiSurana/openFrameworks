@@ -15,7 +15,7 @@ public:
     float angle;
     float aVel;
     float aAcc;
-    float damping;
+    
     ofVec2f origin;
     ofVec2f location;
     float size;
